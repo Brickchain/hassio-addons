@@ -1,10 +1,11 @@
 {
     "name": "Brickchain proxy",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "slug": "brickchainproxy",
     "description": "Connect Home Assitant to the Brickchain HASS service",
     "startup": "before",
     "boot": "auto",
+    "arch": ["amd64", "armhf", "i386", "aarch64"],
     "homeassistant_api": true,
     "options": {
       "secret": ""
