@@ -6,7 +6,7 @@ ENV LANG C.UTF-8
 RUN apk add --no-cache jq
 
 # Copy data for add-on
-ADD https://s3.eu-central-1.amazonaws.com/brickchain-artifacts/hass-proxy-linux-${BUILD_ARCH} /hass-proxy
+ADD https://s3.eu-central-1.amazonaws.com/brickchain-artifacts/hass-proxy-linux-$BUILD_ARCH /hass-proxy
 RUN chmod a+x /hass-proxy
 
 COPY run.sh /
