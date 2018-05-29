@@ -1,6 +1,6 @@
 {
     "name": "Brickchain proxy",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "slug": "brickchainproxy",
     "description": "Connect Home Assitant to the Brickchain HASS service",
     "startup": "before",
