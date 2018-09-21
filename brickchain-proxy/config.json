@@ -3,6 +3,7 @@
     "version": "1.1.4",
     "slug": "brickchainproxy",
     "description": "Connect Home Assitant to the Brickchain HASS service",
+    "url": "https://plusintegrity.com/homeassistant/",
     "startup": "before",
     "boot": "auto",
     "arch": ["amd64", "armhf", "i386"],
