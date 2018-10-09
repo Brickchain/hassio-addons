@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.9] - 2018-10-09
+### Fixes
+- Updated to correct header form HASS addons
+
 ## [1.1.2] - 2018-08-16
 ### Refactor
 - Changed to use the new Brickchain Proxy method and validate requests locally
