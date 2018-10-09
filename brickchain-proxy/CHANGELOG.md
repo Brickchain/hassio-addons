@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.10] - 2018-10-09
+### Fixes
+- Fixed bug caused by conflicting Authorization header
+
 ## [1.1.9] - 2018-10-09
 ### Fixes
 - Updated to correct header form HASS addons
