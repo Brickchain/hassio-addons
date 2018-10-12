@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.11] - 2018-10-09
+### Improvements
+- Updated dependencies
+
 ## [1.1.10] - 2018-10-09
 ### Fixes
 - Fixed bug caused by conflicting Authorization header
