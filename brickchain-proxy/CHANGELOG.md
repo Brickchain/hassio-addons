@@ -1,6 +1,10 @@
 # Changelog
 
-## [1.1.11] - 2018-10-09
+## [1.1.12] - 2018-10-12
+### Fixes
+- Fixed forwarding of correct status code
+
+## [1.1.11] - 2018-10-12
 ### Improvements
 - Updated dependencies
 
