@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.13] - 2018-10-17
+### Fixes
+- Added config flag to enable Hass.io API
+
 ## [1.1.12] - 2018-10-12
 ### Fixes
 - Fixed forwarding of correct status code
