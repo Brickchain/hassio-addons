@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.14] - 2018-10-17
+### Fixes
+- Fixed bad url to binary
+
 ## [1.1.13] - 2018-10-17
 ### Fixes
 - Added config flag to enable Hass.io API
