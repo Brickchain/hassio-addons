@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.13] - 2018-10-18
+### Fixes
+- New URL for binary
+- Updated to correct header for Home Assistant API
+- Removed flag to enable Hass.io API calls from config
+
 ## [1.1.14] - 2018-10-17
 ### Fixes
 - Fixed bad url to binary

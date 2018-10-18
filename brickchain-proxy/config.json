@@ -1,14 +1,12 @@
 {
     "name": "Brickchain proxy",
-    "version": "1.1.14",
+    "version": "1.2.13",
     "slug": "brickchainproxy",
     "description": "Connect Home Assitant to the Brickchain HASS service",
     "url": "https://plusintegrity.com/homeassistant/",
     "startup": "before",
     "boot": "auto",
     "arch": ["amd64", "armhf", "i386"],
-    "hassio_api": true,
-    "hassio_role": "default",
     "homeassistant_api": true,
     "map": [ "config:rw" ],
     "environment": {
